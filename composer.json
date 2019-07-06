@@ -1,0 +1,22 @@
+{
+    "name": "kainmeeri/learningproject",
+    "description": "Pour s'entrainer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kainmeeri",
+            "email": "kain.mrda@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "symfony/var-dumper": "^4.3",
+        "benoclock/alto-dispatcher": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Learning\\": "app/"
+        }
+    }
+}

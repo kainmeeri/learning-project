@@ -1,0 +1,24 @@
+.home_div {
+    text-align: center;
+    padding: 20px;
+}
+
+.register {
+    width: 600px;
+    margin: 130px auto;
+}
+
+.login {
+    width: 500px;
+    margin: 200px auto;
+}
+
+
+
+
+.footer {
+    position: absolute; 
+    bottom: 0;
+    left: 0; 
+    right: 0
+}
