@@ -4,7 +4,7 @@
         <div class="field">
         <label class="label">Pseudo</label>
         <div class="control has-icons-left has-icons-right">
-            <input class="input is-success" type="text" placeholder="Text input" >
+            <input class="input is-success" type="text" placeholder="Pseudonyme" >
             <span class="icon is-small is-left">
                 <i class="fas fa-user"></i>
             </span>
@@ -18,7 +18,7 @@
         <div class="field">
         <label class="label">Adresse e-mail</label>
         <div class="control has-icons-left has-icons-right">
-            <input class="input is-danger" type="email" placeholder="Email input" >
+            <input class="input is-danger" type="email" placeholder="Email" >
             <span class="icon is-small is-left">
                 <i class="fas fa-envelope"></i>
             </span>
@@ -32,7 +32,7 @@
         <div class="field">
         <label class="label">Mot de passe</label>
         <div class="control has-icons-left has-icons-right">
-            <input class="input is-danger" type="password">
+            <input class="input is-danger" type="password" placeholder="Password">
             <span class="icon is-small is-left">
         </div>
 

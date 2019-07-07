@@ -6,14 +6,33 @@
 .register {
     width: 600px;
     margin: 130px auto;
+    transition: background-color 3s;
+    padding: 20px;
+    border-radius: 8px;
 }
+.register:hover {
+    background-color: rgb(224, 216, 216);
+}
+
 
 .login {
     width: 500px;
-    margin: 200px auto;
+    margin: 200px auto; 
+    transition: background-color 3s;
+    padding: 20px;
+    border-radius: 8px;
+}
+.login:hover {
+    background-color: rgb(224, 216, 216);
 }
 
+.control.has-icons-left .input, .control.has-icons-left .select select {
+    padding-left: 0.5em;
+}
 
+.checkbox, .radio {
+    margin-top: 15px;
+}
 
 
 .footer {
